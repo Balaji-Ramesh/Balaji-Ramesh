@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2dHF6bDc4N3BnZHQyNGlydWlxOHAxYm80NWRsd3I5Y3NrNHdmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" alt="computer" />
+</div>
 <!--
 **Balaji-Ramesh/Balaji-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
