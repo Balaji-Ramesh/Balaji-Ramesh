@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2dHF6bDc4N3BnZHQyNGlydWlxOHAxYm80NWRsd3I5Y3NrNHdmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" alt="computer" />
+  <img align="center" width="20px" height="20px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2dHF6bDc4N3BnZHQyNGlydWlxOHAxYm80NWRsd3I5Y3NrNHdmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" alt="computer" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="linkedin" />
+  <img src="https://img.shields.io/badge/Leetcoden-blue" alt="Leetcode" />
+  
 </div>
 <!--
 **Balaji-Ramesh/Balaji-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
