@@ -3,11 +3,6 @@
 <div>
   <img align="center" width="80px" height="80px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl2dHF6bDc4N3BnZHQyNGlydWlxOHAxYm80NWRsd3I5Y3NrNHdmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" alt="computer" />
 </div>
-<div>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
-  <img src="https://img.shields.io/badge/Leetcode-grey?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode" />
-  
-</div>
 <!--
 **Balaji-Ramesh/Balaji-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
